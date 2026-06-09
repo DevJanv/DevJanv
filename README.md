@@ -54,4 +54,4 @@ I build clean, reliable BI solutions that turn raw data into business-ready dash
 
 ---
 
-*MS Computer Science · Data Analyst / BI Analyst · Open to Business Intelligence, Data Analyst, and Reporting Analyst roles*
+*MS Computer Science · Data Analyst / BI Analyst · Open to Business Intelligence, Data Analyst, and Financial Analyst roles*
