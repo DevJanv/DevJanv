@@ -1,5 +1,5 @@
 # Janhavi Tatkare
-Data Analyst | Power BI | SQL | ETL
+Data Analyst
 
 **Power BI · SQL · DAX · Microsoft Fabric · Azure Data Factory · Python · Tableau · Excel**
 
