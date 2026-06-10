@@ -5,9 +5,13 @@ Data Analyst
 
 I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavitatkare/)
-[![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janvtatkare?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=janvtatkare&style=flat-square)
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_GITHUB_REPOS_LINK">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=janvtatkare&label=PROFILE%20VIEWS&base=100&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
 ---
 
