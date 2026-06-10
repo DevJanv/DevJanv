@@ -1,18 +1,27 @@
 # Janhavi Tatkare
+
 Data Analyst
 
 **Power BI · SQL · DAX · Microsoft Fabric · Azure Data Factory · Python · Tableau · Excel**
 
 I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_GITHUB_REPOS_LINK">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=janvtatkare&label=PROFILE%20VIEWS&base=100&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/janvtatkare?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work" />
+  </a>
+</p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=janvtatkare&label=PROFILE%20VIEWS&base=100&style=for-the-badge&color=2EA44F" alt="Profile views" />
+</p>
+
+---
+
+## What I work on
 ---
 
 ## What I work on
