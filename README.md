@@ -1,10 +1,10 @@
-# Janhavi Tatkare
+# Janhavi Sunil
 
 Data Analyst
 
 I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
-**Janhavi Tatkare**
+**Janhavi Sunil**
 Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvi-sunil/)
