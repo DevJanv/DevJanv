@@ -7,7 +7,7 @@ I build clean, reliable BI solutions that turn raw data into business-ready dash
 **Janhavi Tatkare**
 Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavitatkare/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvi-sunil/)
 [![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janvtatkare?tab=repositories)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=janvtatkare&color=238636&style=for-the-badge&label=Profile+Views&base=1000&labelColor=238636)
