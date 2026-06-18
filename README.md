@@ -4,9 +4,6 @@ Data Analyst
 
 I build clean, reliable BI solutions that turn raw data into business-ready dashboards, KPI reporting, and self-service analytics. My work focuses on Power BI development, SQL-based data transformation, ETL workflows, data validation, and executive reporting across finance, operations, and customer performance domains.
 
-**Janhavi Sunil**
-Data Analyst
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janvi-sunil/)
 [![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevJanv?tab=repositories)
 
