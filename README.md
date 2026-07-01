@@ -1,4 +1,4 @@
-# Janhavi Sunil
+# Janhavi
 
 Data Analyst
 
